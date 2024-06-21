@@ -1,0 +1,2 @@
+- 👋 Hi, I’m John Whiting, the Lead Software Engineer and Founder of [BitBranch LLC](https://bitbranch.com)!
+- 📫 You can contact me through BitBranch's website: https://bitbranch.com
